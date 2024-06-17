@@ -5,7 +5,7 @@
 ![image](https://github.com/murph1234/Healthcare-Diagnosis-Chatbot/assets/98601458/2ebfed77-37d1-4b19-abd1-8a6f3068a8aa)
 
 # Video description of the website
-https://drive.google.com/file/d/15EnjcUKmwZq4ydldfE9FCiuZYPPgpQ_P/view?usp=sharing
+https://drive.google.com/file/d/1uUjadJUkYo-asLTWlBePmQfNp1upue12/view?usp=sharing
 
 # How to run?
 ### STEPS:
