@@ -1,4 +1,10 @@
-# End-to-end-Medical-Chatbot-using-Llama2
+# Healthcare Diagnosis Chatbot
+# Architecture Diagram
+![image](https://github.com/murph1234/Healthcare-Diagnosis-Chatbot/assets/98601458/211324dc-6ee5-485a-a395-86383733fd68)
+# Snaps from the Website
+![image](https://github.com/murph1234/Healthcare-Diagnosis-Chatbot/assets/98601458/2ebfed77-37d1-4b19-abd1-8a6f3068a8aa)
+
+
 
 # How to run?
 ### STEPS:
